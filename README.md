@@ -29,7 +29,7 @@ For the displayed graph drawings, there is also an output as ipe files at:
     target/drawings/
 
 The source code is available.
-You may try different graphs and things.
+You may modify it to try different graphs and things.
 
 ---------------------------------------
 
