@@ -1,4 +1,4 @@
-# embedded-graph-drawing
+# Embedded Graph Drawing
 Small extension to Java Jung to work on embedded graphs.
 This contains an implementation for drawing graphs NIC-planar 1-bend RAC in quadratic area.
 This implementation is based on the article "Compact Drawings of 1-Planar Graphs with Right-Angle Crossings and Few Bends", which can be found at https://arxiv.org/abs/1806.10044 – see also https://doi.org/10.1016/j.comgeo.2019.07.006 for the journal version.
